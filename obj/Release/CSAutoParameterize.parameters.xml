@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="conexion-Web.config Connection String" description="conexion Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=3131da.database.windows.net;Initial Catalog=Cine;Persist Security Info=true;User ID=wilmer;Password=Contraseña123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\wilme\\Downloads\\CrudCine\ \(1\)\\CrudCine\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='conexion']/@connectionString" />
+  </parameter>
+</parameters>

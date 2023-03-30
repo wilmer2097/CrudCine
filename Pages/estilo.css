@@ -1,0 +1,62 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;600&display=swap');
+
+form {
+    /*background-image: url("https://portalrh.senati.edu.pe/sites/default/files/gallery/006.jpg");*/
+    padding-top: 70px;
+}
+
+.carrousel {
+    padding-top: 70px;
+}
+.fondo {
+    background-color: #212529;
+}
+    .fondo h3, h2, p, tr, td {
+        color: #ffffff;
+    }
+
+
+
+.todo, h2 {
+    color: #ffffff;
+    background-color: #212529;
+    padding-top: 70px;
+    border-radius: 50px;
+    border: 5px solid black;
+}
+
+.login {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.text-light {
+
+    color: #ffffff;
+}
+.bg-dark {
+    background-color: #ffffff;
+}
+
+.bg-dark-x {
+    background-color: #ffffff;
+}
+
+.btn {
+    min-height: 3.125rem;
+    font-weight: 600;
+}
+
+.form-control {
+    min-height: 3.125rem;
+}
+    .form-control:focus {
+        background-color: #ffffff;
+        outline: none;
+    }
+    .form-control.form-text {
+        color: #ffffff;
+        outline: none;
+    }
+

@@ -32,7 +32,7 @@ namespace CrudCine.Pages
             if (dr.Read())
             {
                 //Agregamos una sesion de usuario
-                Response.Redirect("index.aspx");
+                Response.Redirect("Pages/index.aspx");
             }
             else
             {
